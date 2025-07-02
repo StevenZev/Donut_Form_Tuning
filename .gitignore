@@ -1,4 +1,6 @@
 example_forms/
 Dataset/
-*.Zone.Identifier
+*Identifier
 *.png
+
+
